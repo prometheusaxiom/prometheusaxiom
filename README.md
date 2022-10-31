@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prometheusaxiom
 - 👀 I’m interested in expanding my knowledge about different programming languages
-- 🌱 I’m currently learning Java Object Oriented Programming
+- 🌱 I’m currently learning C# Languange
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? Email me @ markrayden@gmail.com
 
