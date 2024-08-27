@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @prometheusaxiom
-- 👀 I’m interested in expanding my knowledge about different programming languages
-- 🌱 I’m currently learning C# Languange
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @prometheusaxiom a Full Stack Web Developer
 - 📫 How to reach me? Email me @ markrayden@gmail.com
 
 <!---
