@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prometheusaxiom a Full Stack Web Developer
+- 👋 Hi, I’m @prometheusaxiom a Full Stack Web Developer with 2 years and 6 months work experience
 - 📫 How to reach me? Email me @ markraydenm@gmail.com
 
 <!---
